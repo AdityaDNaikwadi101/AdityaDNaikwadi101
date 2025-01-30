@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aditya Naikwadi</h1>
+<h1 align="center">Hi 👋, I'm Aditya D Naikwadi</h1>
 <h3 align="center">Final Year Engineering Student Passionate Coder 🚀</h3>
 
 - 🌱 I’m currently learning **Unix Operating System**
